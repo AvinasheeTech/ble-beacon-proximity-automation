@@ -22,7 +22,7 @@ It demonstrates how to automate actions on your **PC and Android phone** using a
 
 ### 🚀 Features
 - Lock or wake your **PC** automatically based on BLE signal strength (RSSI)
-- Use a **Python script** on Windows/Linux to scan for beacon presence
+- Use a **Python script** on Windows to scan for beacon presence
 - Trigger **Android screen lock or wake-up** using the **Automate app** with a no-root flow
 - Simple integration with the **nRF52840 dongle** broadcasting in beacon mode (custom UUID)
 - Lightweight, customizable, and privacy-friendly
